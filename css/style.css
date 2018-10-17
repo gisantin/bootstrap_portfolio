@@ -7,8 +7,8 @@
 }
 
 .blockquote{
-    margin: 161px 210px 0px 419px;
-    font-family: 'Sawarabi Gothic', sans-serif;
+    margin: 111px 210px 111px 419px;
+    font-family: 'Oswald', sans-serif;
 }
 
 .mb-0{
@@ -22,3 +22,82 @@
     color:black;
 
 }
+
+.text-light {
+    text-align: center;
+    font-size: 23px;
+}
+
+.blockquote-footer {
+    display: block;
+    font-size: 106%;
+    color: #6c757d;
+    margin-left: 521px;
+}
+
+.bg-dark {
+    background-color: #343a40!important;
+    padding: 10px;
+}
+
+.text-about{
+    font-family: 'Oswald', sans-serif;
+    font-size: 22px;
+    margin: 41px 0px 40px -120px;
+}
+.img-fluid {
+    max-width: 130%;
+    height: auto;
+    padding: 10px;
+    margin: 18px 21px;
+
+}
+
+.imag{
+    margin-left: 60px;
+    width: 90px;
+}
+
+.col{
+    margin: 10px 74px 20px;
+}
+
+
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    justify-content: space-between;
+}
+.box{
+    width: 102%;
+    margin: 20px 5px;
+}
+
+.imagem{
+    width: 430px;
+    height: 293px;
+}
+
+#row-center{
+    
+}
+
+span.error{
+    font-size: 15px;
+    font-weight: bold;
+    color: red;
+
+}
+input.error{
+    border-color: red;
+}
+
+/* .btn btn-primary{
+    display: flex;
+    align-items: center;
+} */
