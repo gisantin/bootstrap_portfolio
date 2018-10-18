@@ -7,7 +7,7 @@
 }
 
 .blockquote{
-    margin: 111px 210px 111px 419px;
+    margin: 111px 10px 111px 419px;
     font-family: 'Oswald', sans-serif;
 }
 
@@ -32,18 +32,18 @@
     display: block;
     font-size: 106%;
     color: #6c757d;
-    margin-left: 521px;
+    margin-left: 552px;
 }
 
 .bg-dark {
     background-color: #343a40!important;
-    padding: 10px;
+    
 }
 
 .text-about{
     font-family: 'Oswald', sans-serif;
     font-size: 22px;
-    margin: 41px 0px 40px -120px;
+    margin: 41px 33px 40px -120px;
 }
 .img-fluid {
     max-width: 130%;
@@ -75,17 +75,16 @@
 }
 .box{
     width: 102%;
-    margin: 20px 5px;
+    margin: 20px -10px;
 }
 
 .imagem{
-    width: 430px;
-    height: 293px;
+    width: 354px;
+    height: 269px;
+
 }
 
-#row-center{
-    
-}
+
 
 span.error{
     font-size: 15px;
@@ -97,7 +96,30 @@ input.error{
     border-color: red;
 }
 
-/* .btn btn-primary{
+.content{
+    width: 97%;
+    margin-left: -12px;
+}
+
+.form-space{
+    width: 55%;
+    margin: 60px 276px 60px;
+}
+
+
+.btn-primary{
     display: flex;
     align-items: center;
-} */
+}
+
+.rodape{
+    background-color: black;
+    padding: 20px;
+}
+.rodape-p{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+}
