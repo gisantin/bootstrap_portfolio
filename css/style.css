@@ -5,6 +5,10 @@
 .navbar-brand{
     margin-left: 107px;
 }
+.carousel slide img{
+    height: 80vh;
+    object-fit: cover;
+}
 
 .blockquote{
     margin: 111px 10px 111px 419px;
